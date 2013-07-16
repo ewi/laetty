@@ -1,4 +1,6 @@
 *.class
+# Gimp images
+*.xcf
 
 # Package Files #
 *.jar
